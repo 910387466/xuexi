@@ -1,7 +1,7 @@
 # xuexi
 开始时困难，但不知道何时才会度过这个令人不安的时间段！
 
-不知道我的个人客观的生活观 是不是也影响到你的哪！
+
 DJANGO笔记一  学习网站TWD1.7：http://hackerxu.com/Twd/#2  第三章开始
 该笔记的环境为Ubuntu下的实现。
 1： windows安装python的步骤：去pypi下载 与计算机电脑匹配的64位或者32位的python版本；进行安装，一般会成功，但有时PATH环境
